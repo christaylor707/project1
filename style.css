@@ -1,0 +1,56 @@
+body{
+  font-family:cursive;
+}
+
+header {
+  height: 100px;
+  background-color: #000000;
+  color:#ffffff;
+}
+
+main {
+
+}
+
+footer {
+  background-color:#D3DFDF ;
+}
+
+h1 {
+  margin: 0;
+}
+
+div.know{
+  background-color:#eeeeee;
+  padding:20px;
+}
+div.logo{
+  padding: 25px 0;
+}
+
+ul {
+  font-style:italic;
+}
+
+img {
+  width: 100%;
+}
+
+.wrapper {
+  width: 600px;
+  margin: auto;
+}
+
+
+a:link{
+  color:blue;
+}
+a:visited{
+  color:red;
+}
+a:hover{
+  color:aqua;
+}
+a:active{
+  color:black;
+}
